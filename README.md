@@ -3,7 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> hi! i'm bin </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> My dream is to be a full stack developer!</li></li>So I'm running towards that dream! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> My dream is to be a full stack developer!</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> So I'm running towards that dream! </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

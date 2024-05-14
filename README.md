@@ -18,9 +18,9 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Development Experience</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📈 Development Experience</h2>
     <br>
-    <p><a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-">팀 프로젝트</a></p>
+    <p><a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-">Team Project Git</a></p>
 </div>
 
 <div style="text-align: left;">
